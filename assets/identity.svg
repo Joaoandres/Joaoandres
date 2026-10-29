@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Joao Calle Espinoza, Consultor">
+<rect width="1200" height="240" rx="16" fill="#171515"/>
+<g fill="none" stroke="#D7AB68" stroke-width="1.3" opacity=".16">
+<path d="M820 -30 C700 80 1080 80 940 270"/><path d="M850 -30 C730 80 1110 80 970 270"/><path d="M880 -30 C760 80 1140 80 1000 270"/><path d="M910 -30 C790 80 1170 80 1030 270"/><path d="M940 -30 C820 80 1200 80 1060 270"/><path d="M970 -30 C850 80 1230 80 1090 270"/><path d="M1000 -30 C880 80 1260 80 1120 270"/>
+</g>
+<rect x="50" y="48" width="42" height="4" rx="2" fill="#D7AB68"/>
+<text x="50" y="112" fill="#F5EFE6" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Joao Calle Espinoza</text>
+<text x="52" y="157" fill="#D7AB68" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="6">CONSULTOR</text>
+<text x="52" y="204" fill="#C9C2BA" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">HYDROLOGY / GEOMATICS / ENVIRONMENTAL DATA SCIENCE</text>
+</svg>

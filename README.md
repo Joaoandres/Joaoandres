@@ -1,11 +1,14 @@
 <p align="center"><img src="assets/cover-river.png" alt="Paisaje fluvial al atardecer" width="100%"></p>
 
-<h1 align="center">Joao Calle Espinoza</h1>
-<p align="center"><strong>CONSULTOR</strong></p>
+<p align="center"><img src="assets/identity.svg" alt="Joao Calle Espinoza · CONSULTOR · Hydrology / Geomatics / Environmental Data Science" width="100%"></p>
 
-<p align="center"><strong>HYDROLOGY &nbsp; / &nbsp; GEOMATICS &nbsp; / &nbsp; ENVIRONMENTAL DATA SCIENCE</strong></p>
+<p align="center">
+  <a href="CATALOGO.md"><img src="assets/projects.svg" alt="Explorar proyectos" height="44"></a>
+  <a href="https://www.linkedin.com/in/joao-calle-espinoza-347502152/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://jaceconsultingec.com/contacto.html"><img src="assets/contact.svg" alt="Conversemos" height="44"></a>
+</p>
 
-<p align="center"><a href="https://jaceconsultingec.com/">JACE Consulting</a> · <a href="https://www.linkedin.com/in/joao-calle-espinoza-347502152/">LinkedIn</a> · <a href="CATALOGO.md">Project catalogue</a> · <a href="README.en.md">English</a></p>
+<p align="center"><a href="https://jaceconsultingec.com/">JACE Consulting</a> · <a href="https://orcid.org/0000-0001-8195-1366">ORCID</a> · <a href="README.en.md">English</a></p>
 
 ---
 
@@ -15,7 +18,7 @@ Soy **Joao Calle Espinoza**, ingeniero en Ciencias del Agua. Integro hidrología
 
 En **[JACE Consulting](https://jaceconsultingec.com/)** participo como **Coordinador de Operaciones y Proyectos**, conectando planificación técnica, actividades de campo, equipos y entregables.
 
-### Proyectos destacados
+### 01 / Proyectos destacados
 
 | 01 / AGUA Y SUELO | 02 / DATOS Y OBSERVACIONES | 03 / DRENAJE URBANO |
 | --- | --- | --- |
@@ -24,14 +27,14 @@ En **[JACE Consulting](https://jaceconsultingec.com/)** participo como **Coordin
 | `R` · `Python` · `SIG` | `R` · `data.table` · `Shiny` | `EPA SWMM` · `Sensibilidad` |
 | [Explorar proyecto →](proyectos/01-daule-rusle-sdr.md) | [Ver flujo de datos →](proyectos/03-barcelona-calidad-datos.md) | [Conocer el estudio →](proyectos/07-swmm-duran.md) |
 
-### Explora las herramientas
+### 02 / Herramientas en línea
 
 - **[Geovisor Daule](https://jaceconsultingec.com/geovisor/)** — factores de erosión y escenarios de manejo en cartografía H3.
 - **[Boletines meteorológicos](https://jaceconsultingec.com/boletines.html)** — lluvia y temperatura para Ecuador continental.
 - **[Archivo histórico Tena](https://jaceconsultingec.com/geovisor/tena/)** — consulta espacial y temporal de precipitación.
 - **[Investigación ML en el Tena](proyectos/05-tena-machine-learning.md)** — Random Forest y revisión de validación temporal.
 
-### Mi caja de herramientas
+### 03 / Herramientas y métodos
 
 | Analizar | Modelar | Comunicar |
 | --- | --- | --- |
@@ -39,7 +42,7 @@ En **[JACE Consulting](https://jaceconsultingec.com/)** participo como **Coordin
 | SIG · DEM · control de calidad | Random Forest · sensibilidad | H3 · mapas · documentación |
 | UAV · GNSS RTK · campo | Preparación para regresión simbólica | Flujos reproducibles |
 
-### Cómo abordo un proyecto
+### 04 / Cómo abordo un proyecto
 
 **Pregunta → datos → control de calidad → modelo → validación → comunicación.**
 
@@ -47,9 +50,11 @@ Me interesan los modelos interpretables, la coherencia física y la trazabilidad
 
 **[Ver los 11 proyectos y líneas de trabajo →](CATALOGO.md)**
 
-### Conversemos
+### 05 / Conversemos
 
-Investigación aplicada, hidrología, erosión, SIG y ciencia de datos ambientales.
+**Disponible para consultorías y colaboraciones.**
+
+Cuéntame el problema, el área de estudio y el resultado que necesitas: análisis de cuencas, control de calidad de datos, modelación hidrológica, SIG o visualización ambiental.
 
 **[LinkedIn](https://www.linkedin.com/in/joao-calle-espinoza-347502152/)** · **[JACE Consulting — sitio oficial](https://jaceconsultingec.com/)** · **[Contacto institucional](https://jaceconsultingec.com/contacto.html)**
 

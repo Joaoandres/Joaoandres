@@ -1,4 +1,7 @@
-<p align="center"><img src="assets/cover.svg" alt="Joao Calle Espinoza — GeoHydro DataLab" width="100%"></p>
+<p align="center"><img src="assets/cover-river.png" alt="Paisaje fluvial al atardecer" width="100%"></p>
+
+<h1 align="center">Joao Calle Espinoza</h1>
+<p align="center"><strong>CONSULTOR</strong></p>
 
 <p align="center"><strong>HYDROLOGY &nbsp; / &nbsp; GEOMATICS &nbsp; / &nbsp; ENVIRONMENTAL DATA SCIENCE</strong></p>
 
